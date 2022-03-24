@@ -1,8 +1,14 @@
-### Eaii, Eu sou o Lucas!!
+### Hello!!
 
+#
 
-- 🌱 Estudando Python 
-- 😄 Pronouns: ele/dele
+``` python
+name = "Lucas"
+year = 19
+country = "Brazil"
+pronouns = "he/her"
+
+```
 
 <div align="center">
   <a href="https://github.com/Consolucas">
