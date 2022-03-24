@@ -25,3 +25,5 @@
   
   ##
   
+    ![Snake animation](https://github.com/consolucas/consolucas/blob/output/github-contribution-grid-snake.svg)
+  
