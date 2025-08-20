@@ -32,12 +32,12 @@
 ---
 
 ## 📜 Certificações & Estudos
-🎓 **Oracle Next Education (ONE) - Ciência de Dados** – Alura  
-☁️ Oracle Cloud Data Management Foundations *(em andamento)*  
-📊 PL-300 Power BI Data Analyst *(em estudos)*
-🐍 Kaggle Micro-Certifications (Python, Pandas, SQL)
-📈 Cursos de SQL, Python e Machine learning – Alura
-📋 Scrum Foundation Professional Certification - SFPC™ - Certiprof
+* 🎓 **Oracle Next Education (ONE) - Ciência de Dados** – Alura  
+* ☁️ Oracle Cloud Data Management Foundations *(em andamento)*  
+* 📊 PL-300 Power BI Data Analyst *(em estudos)* 
+* 🐍 Kaggle Micro-Certifications (Python, Pandas, SQL)
+* 📈 Cursos de SQL, Python e Machine learning – Alura
+* 📋 Scrum Foundation Professional Certification - SFPC™ - Certiprof
 
 ---
 
